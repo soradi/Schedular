@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Scheduling">
+</Property><Property Name="Solution File" Value="D:\Develop\Old\Develop\Important\Faculty\SchedulingMinimized\Scheduling.sln">
+</Property><Property Name="Date" Value="الأحد, 08 يناير, 2017">
+</Property><Property Name="Time" Value="20:51 م">
+</Property></Properties><Event ErrorLevel="0" Project="Scheduling" Source="Scheduling.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Scheduling" Source="Scheduling.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Scheduling.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Scheduling.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Scheduling" Source="Scheduling.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
